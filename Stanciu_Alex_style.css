@@ -1,0 +1,32 @@
+body{
+	background-color: Arial;
+	opacity: 1;
+	font-size: 18px;
+}
+
+h1{
+	font-size: 50px;
+	font-family: Times New Roman;
+	color: black;
+}
+h2{
+	font-size: 40px;
+	font-family: Times New Roman;
+	color: gray;
+}	
+.green{
+	color : green;
+	font-style: italic;
+}
+img{
+	width: 30%;
+	border-radius: 30%;
+}
+.proprieties{
+	width: 25%;
+	opacity: 0.9;
+}
+.border{
+	border:4mm ridge rgba(170, 50, 220, .6);
+	font-family: Times New Roman;
+}
